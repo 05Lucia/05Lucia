@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Alice
 - 👀 I’m interested in Code, Books, Games and Stand up Padeling
-- 🌱 I’m currently learning Clean Code
 - ⚡ Fun fact: I'm in the volunteer fire department.
 
 <!---
